@@ -8,5 +8,7 @@ public void testMethodJenkins()
 {
 	System.out.println("Jenkins execution");
 	System.out.println("Jenkins test statement for PoLL SCm");
+	System.out.println("Jenkins test statement for PoLL SCm11");
+
 }
 }
