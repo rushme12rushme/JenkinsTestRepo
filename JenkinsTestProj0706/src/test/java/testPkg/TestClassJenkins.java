@@ -7,5 +7,6 @@ public class TestClassJenkins {
 public void testMethodJenkins()
 {
 	System.out.println("Jenkins execution");
+	System.out.println("Jenkins test statement for PoLL SCm");
 }
 }
